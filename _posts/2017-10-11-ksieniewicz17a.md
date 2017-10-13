@@ -1,6 +1,6 @@
 ---
 title: Dealing with the task of imbalanced, multidimensional data classification using
-  ensembles of \emphexposers
+  ensembles of exposers
 booktitle: 'Proceedings of the First International Workshop on Learning with Imbalanced
   Domains: Theory and Applications (LIDTA2017)'
 year: '2017'
@@ -16,7 +16,7 @@ abstract: Recently, the problem of imbalanced data is the focus of intense resea
   of machine learning community. Following work tries to utilize an approach of transforming
   the data space into another where classification task may become easier. Paper contains
   a proposition of a tool, based on a photographic metaphor to build a classifier
-  ensemble, combined with a \emphrandom subspace approach. Developed solution is insensitive
+  ensemble, combined with a random subspace approach. Developed solution is insensitive
   to a sample size and robust to dimension increase, which allows a regularization
   of feature space, reducing the impact of biased classes. The proposed approach was
   evaluated on the basis of the computer experiments carried out on the benchmark
@@ -24,7 +24,7 @@ abstract: Recently, the problem of imbalanced data is the focus of intense resea
 layout: inproceedings
 id: ksieniewicz17a
 tex_title: Dealing with the task of imbalanced, multidimensional data classification
-  using ensembles of \emph{exposers}
+  using ensembles of exposers
 firstpage: 164
 lastpage: 175
 page: 164-175
